@@ -1,1 +1,1 @@
-# simpleAlgorithm
+# MyPrograme
